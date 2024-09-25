@@ -110,3 +110,5 @@ query = "What is AI policy for students?"
 pinecone_results = vector.similarity_search(query, k=5)
 
 pinecone_results
+
+pinecone_results[3].page_content
