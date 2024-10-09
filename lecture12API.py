@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key="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"
+openai.api_key=""
 
 def Senitment_analysis(text):
     messages = [

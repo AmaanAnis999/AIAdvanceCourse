@@ -1,6 +1,6 @@
 # pip install openai
 import openai
-openai.api_key="sk-MeACKuKccQibPnIZNVkOfov8DF9DnBO-kUcLTWB9FxT3BlbkFJHgvr9f-erXdOBSxgT-vWTY0Xw4fEaJjV7wR3IncZAA"
+openai.api_key="Your key"
 # import openai
 # from google.colab import userdata
 # openai.api_key=userdata.get('openai')

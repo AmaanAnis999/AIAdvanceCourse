@@ -1,7 +1,7 @@
 # THESE ARE DOWNLOADING THINGS WORTH GBs ITS BETTER TO RUN THESE IN COLLAB NOTEBOOK
 
 # import openai
-# openai.api_key='sk-k5r-L6EIf6wnULYd8ThiYLGKJ4fdd0up5rkCot7wycT3BlbkFJmgzuxkmtXcsGN44I_RX7k4I59GueoV7x9LG9Cnfr4A'
+# openai.api_key=''
 
 # import io
 # import requests
