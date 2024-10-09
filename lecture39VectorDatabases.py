@@ -58,7 +58,7 @@ len(doc_list)
 
 # Qdrant Vectore Store
 # Qdrant Credentials
-qdrant_url = "https://bd4e1587-ec02-453f-b686-77a9b8be1b0c.europe-west3-0.gcp.cloud.qdrant.io:6333"
+qdrant_url = ""
 qdrant_key = ""
 collection_name = "AI_policy_new"
 
